@@ -1,1 +1,16 @@
 /* CSS declarations go here */
+.main{
+	display: flex;
+	border: 1px solid black;
+	height: 90vh;
+	width: 100vw;
+}
+
+.yield{
+	width: 70%;
+	border: 1px solid black;
+}
+.chat{
+	width: 30%;
+	border: 1px solid black;
+}
